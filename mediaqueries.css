@@ -68,7 +68,15 @@
         height: 83vh;
         margin-bottom: 0;
     }
+
+    #profile, .section__text__p1 .title .section__text__p2 {
+        margin-top: 10px;
+    }
     
+    #profile, .btn-container{
+        margin-top: 10px;
+    }
+
     article {
         font-size: 1rem;
     }
@@ -110,6 +118,10 @@
 
     #contact,.section__text__p1 .title {
         margin-top: 800px;
+    }
+
+    #about,.section__text__p1.title{
+        margin-top: 100px;
     }
 
     .experience-sub-title {
