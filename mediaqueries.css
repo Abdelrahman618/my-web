@@ -81,6 +81,14 @@
         margin: 1rem;
     }
 
+    #experience, .experience-detalis-container{
+        margin-top: 600px;
+    }
+
+    #projects, .experience-detalis-container {
+        margin-top: 250px;
+    }
+
     .contact-info-container {
         margin: 0;
     }
@@ -93,11 +101,15 @@
     }
 
     #contact, .contact-info-upper-container {
-        margin-top: 550px;
+        margin-top: 50px;
     }
 
     #contact, .nav-links-container{
-        margin-top: 390px;
+        margin-top: 150px;
+    }
+
+    #contact,.section__text__p1 .title {
+        margin-top: 800px;
     }
 
     .experience-sub-title {
@@ -113,7 +125,7 @@
     }
     .section__pic-container {
         width: auto;
-        height: 46vw; 
+        height: 76vw; 
         justify-content: center;
     }
     .section__text__p2 {
